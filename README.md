@@ -71,6 +71,9 @@ Security Headers
 Test SSL, security headers and more
 - https://observatory.mozilla.org/
 
+Domain Impersonation and Phishing Check
+- https://brand-checker.appwrite.network/typos
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 🙂 Social Media Tags and Schema Markup
